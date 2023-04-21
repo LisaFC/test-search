@@ -101,7 +101,7 @@ section = ["HTML", "print", "RSS"]
 copyright = "The Docsy Authors"
 privacy_policy = "https://policies.google.com/privacy"
 
-rss_sections = ["community", "blog"]
+#rss_sections = ["community", "blog"]
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
